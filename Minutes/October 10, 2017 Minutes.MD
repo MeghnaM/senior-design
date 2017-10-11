@@ -65,3 +65,53 @@
   * Send Brad meeting invites on Google (every week on Tuesdays at 9am for now?)
   * Clarify/refine our ideas
   * Begin to talk to schools & gather requirements
+
+## Review meeting
+### 6:00pm - 6:30pm
+
+* Notes
+  * It would be irresponsible for Vokolos to give us advice, really, since he doesn't know much about finance
+  * What he can tell us is that if we come to him with a project, he will tell us what we should come up with each term in order to have a finished product at the end
+  * Vokolos needs to understand what the stakeholder is asking us to do
+  * There are a lot of existing tools. Vokolos thinks that our stakeholder may be able to provide guidance as to how to enrich the idea
+  * The educational component is the thing that will differentiate our product from existing tools is what it seems like our stakeholder (and we) are saying
+    * This means that we may not have to target high school students specifically, but really just anyone who may not have a lot of financial knowledge
+  * First we need to figure out what the problem we are trying to solve is
+    * Vokolos agrees that Investment for Dummies is a good place to start and it's fine for us to talk to our high schools
+    * He thinks all of these suggestions are fine and just wants us to know what we need to do
+  * Part of the preliminary project plan is to come with questions
+    * For now, include whatever we think should go on it. Then Vokolos will look at it and tell us if each thing makes sense or not
+  * It sounds to Vokolos that we have a scope but not an idea
+  * Project Phase Leads slide
+    * We can leave it like this OR have someone who is responsible for system architecture, and one for detailed system design (break up system/software design)
+    * If we leave it, make sure the double leads coordinate
+  * Issues slide
+    * Conflicting schedules --> resolved
+    * Lack of domain knowledge --> still unresolved
+      * To resolve: we have to do research (read up on basics)
+      * Put a deadline in the plan for acquirement of basic knowledge
+    * Broad scope --> still unresolved
+  * Action Items slide
+    * Mike Galloway --> send email, copy Vokolos, say that we work on CI 491 section 5 and we want our stakeholder to be added on blackboard
+      * As long as Vokolos is CCed on it, Mike should have no problem adding Brad
+    * Not typical to meet with stakeholder weekly, but typical to meet with him a lot early on until you have your project defined
+    * Gantt chart is basically part of the project plan (since it will come from the project plan anyway)
+  * Questions slide
+    * If you really want a decent project plan, you need dates on it. Thus, preliminary project plan should have dates
+      * Even after plan is baselined, dates will always change
+      * Do the best that you can so that you at least have something to work off of --> dates ALWAYS change
+  * Vokolos thinks we may have a project, but we really don't have a project yet
+    * There is potential, but nothing concrete
+    * Need to get our hands around the capabilities of our product so that we can start to develop
+    * There is work to be done to get our hands around it
+    * Need to get something that describes the features of the system we will have and something that will be useful to our target customers
+    * At this point, we have something to work with, but much remains to be done before we have a definitive project
+* **Action items**
+  * Come up with a project/team name
+  * Email Professor Vokolos a copy of our PowerPoint
+    * Bring a printed copy of our slidedeck for subsequent meetings so he can take notes
+  * Think about whether to split system/software design leads into two separate sys arch and detailed software design leads
+
+
+
+
