@@ -22,3 +22,5 @@ port: `5432`
 username: `stockboxadmin`
 password: `ehmsm2as`
 4. voila, you should be good to go. If you have any questions lmk and I'll try to troubleshoot
+
+The interface is somewhat confusing, so to look for tables go to: <Server Name> > Databases > stockbox > Schemas > public > Tables
