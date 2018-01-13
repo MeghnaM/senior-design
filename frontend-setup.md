@@ -8,7 +8,7 @@ Before building a project with Neutrino, please make sure you have Node.js v6.9+
 1. `cd` into the **senior-design** git repository on your local machine and run `git pull`. You will now have a file called **stockbox-frontend** in your project
 2. Run `cd stockbox-frontend`
 3. You can now execute the command `npm start` to build and run this project
-4. You can now open **http://localhost:5000** in the browser to look at the application webpage
+4. You can now open http://localhost:5000 in the browser to look at the application webpage
 
 ## Notes
 I have configured Neutrino to use the test runner **Karma**. You can run `npm test` to execute tests for this project. 
