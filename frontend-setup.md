@@ -11,7 +11,8 @@ Before building a project with Neutrino, please make sure you have Node.js v6.9+
 4. You can now open http://localhost:5000 in the browser to look at the application webpage
 
 ## Notes
-I have configured Neutrino to use the test runner **Karma**. You can run `npm test` to execute tests for this project. 
+* I have configured Neutrino to use the test runner **Karma**. You can run `npm test` to execute tests for this project. 
+* Projects in Neutrino can also be customized to use CSS libraries, which I can do after we have written some code. 
 
 ## Additional Resources
 * You can take a look at the [Neutrino docs](https://neutrino.js.org/) to learn more about how Neutrino works - although I do not expect that we will need to modify the setup much more than what I've alredy done.
